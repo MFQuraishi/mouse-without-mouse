@@ -1,7 +1,7 @@
 import keyboard
 import mouse
 
-COMBINATION = "ctrl+alt+windows"
+COMBINATION = "ctrl+alt+shift"
 COORDINATE_BASE_VAL = 10
 SCROLL_BASE_VAL = 2
 

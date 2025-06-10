@@ -5,7 +5,7 @@ we can use a combination of keys plus up, down, left and right to move mouse poi
 
 default combinations are-
 
--   ctrl+alt+windows (base_combination)
+-   ctrl+alt+shift (base_combination)
 -   base_combination + (up, down, right, left) - for movement
 -   base_combination + del - left click
 -   base_combination + end - right click
